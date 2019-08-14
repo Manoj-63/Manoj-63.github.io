@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FrontMatter &gt; FAQ on Distill.io</title>
+    <link>https://fervent-hawking-fe677a.netlify.com/faq/</link>
+    <description>Recent content in FrontMatter &gt; FAQ on Distill.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© All Rights Reserved Neemb LLC</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="https://fervent-hawking-fe677a.netlify.com/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>English &gt; What is sync?</title>
+      <link>https://fervent-hawking-fe677a.netlify.com/faq/what.is.sync/</link>
+      <pubDate>Thu, 08 Aug 2019 12:31:39 +0000</pubDate>
+      
+      <guid>https://fervent-hawking-fe677a.netlify.com/faq/what.is.sync/</guid>
+      <description>Sync lets you synchronization data across different devices. You no longer need to worry about data loss as your Watchlist is safely saved to your account in cloud. You can access your Watchlist anytime from the web at https://distill.io/inbox.
+When sync is on, you will be able to see monitored pages and device names that manage the monitors. Note that sync only synchronizes data. A check is only performed on the device that a monitor is set to run on.</description>
+    </item>
+    
+    <item>
+      <title>English &gt; What is local and cloud monitor?</title>
+      <link>https://fervent-hawking-fe677a.netlify.com/faq/what.is.local.and.cloud.monitor/</link>
+      <pubDate>Thu, 08 Aug 2019 12:57:32 +0000</pubDate>
+      
+      <guid>https://fervent-hawking-fe677a.netlify.com/faq/what.is.local.and.cloud.monitor/</guid>
+      <description>Distill offers browser extensions and the Web App as devices to run checks for changes. Monitors added to a browser extension are checked for changes using the “local” computer. They are called local monitors. Browser should be kept open for local monitors to be up and running.
+Monitors added through Web app are called cloud monitors. These are stored and are checked in cloud using Distill&amp;rsquo;s servers. You do not need your computer to be open for the monitors to run in cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

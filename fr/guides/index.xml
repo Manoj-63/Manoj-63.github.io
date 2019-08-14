@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FrontMatter &gt; Des guides on Distill.io</title>
+    <link>https://fervent-hawking-fe677a.netlify.com/fr/guides/</link>
+    <description>Recent content in FrontMatter &gt; Des guides on Distill.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>© Tous droits réservés Neemb LLC.</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="https://fervent-hawking-fe677a.netlify.com/fr/guides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
